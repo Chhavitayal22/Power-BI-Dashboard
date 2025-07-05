@@ -1,1 +1,1 @@
-# Power-BI-Dashboard
+# Power-BI-Dashboard- Blinkit- India's Last minute app <br> Key Performance Indicators- <br> 1. Total number of Customers <br> 2. Customer Satisfaction Level. <br> 3. Average ratings given by customers. <br> 4. 
